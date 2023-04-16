@@ -29,3 +29,14 @@ obwod = 2 * x + 2 * y
 pole = x * y
 
 print("Pole prostokąta wynosi" + str(pole)+"a obwód wynosi"+str(obwod))
+
+#koło
+
+r=3
+pi=3.14
+print(pi)
+
+pole_k = pi * r * r
+obwod_k = 2 * pi * r
+
+print("Pole koła wynosi" + str(pole_k) + "a obwód wynosi" + str(obwod_k))
