@@ -1,4 +1,4 @@
-# trojkat
+# trójkat
 
 a = 10
 b = 12
@@ -9,3 +9,13 @@ obwod = a + b + c #sum(a,b,c)
 pole = 1/2 * a * h
 
 print("Pole trójkąta wynosi" + str(pole)+"a obwód wynosi"+str(obwod))
+
+# romb
+
+a = 6
+h = 3
+
+pole = a * h
+obwod = 4 * a
+
+print("Pole ormbu wynosi" + str(pole)+"a obwod wynosi"+str(obwod))
