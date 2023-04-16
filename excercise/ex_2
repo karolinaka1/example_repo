@@ -19,3 +19,13 @@ pole = a * h
 obwod = 4 * a
 
 print("Pole ormbu wynosi" + str(pole)+"a obwod wynosi"+str(obwod))
+
+# prostokąt
+
+x = 6
+y = 8
+
+obwod = 2 * x + 2 * y
+pole = x * y
+
+print("Pole prostokąta wynosi" + str(pole)+"a obwód wynosi"+str(obwod))
