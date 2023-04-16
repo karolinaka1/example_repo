@@ -40,3 +40,14 @@ pole_k = pi * r * r
 obwod_k = 2 * pi * r
 
 print("Pole koła wynosi" + str(pole_k) + "a obwód wynosi" + str(obwod_k))
+
+#trapez
+
+a=3
+b=7
+h=4
+
+obwod_t = 2*a+2*b
+pole_t = 1/2 * h * ( a + b )
+
+print("Pole trapezu wynosi" + str(pole_t)+"a obwód trapezu wynosi"+str(obwod_t))
