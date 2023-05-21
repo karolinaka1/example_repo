@@ -1,5 +1,4 @@
 def hello(a: str) -> str:
-    # TODO
     return "Hello"
 
 
