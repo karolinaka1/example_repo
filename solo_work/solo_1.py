@@ -22,7 +22,7 @@ print("Liczba studentów wynosi: {}".format(liczba_studentow))
 studenci = ["Ania", "Kasia", "Piotr", "Tomek"]
 
 for student in studenci:
-    print("Cześć", student)
+    print("Hello", student)
 
 #zadanie 1.5
 
@@ -31,13 +31,13 @@ potega = 4
 
 wynik = liczba ** potega
 
-print(wynik)
+print("Wynik wynosi:",wynik)
 
 #zadanie 1.6
 
 ciag_znakow = "edbw(hdakqas(skqskahb))adwndwb(wgwidn()dsqwhjdw)"
 liczba_nawiasow = ciag_znakow.count("(")
-print("Liczba nawiasów otwierających:", liczba_nawiasow)
+print("Liczba nawiasów otwierających wynosi:"+str(liczba_nawiasow))
 
 #zadanie 1.7
 
