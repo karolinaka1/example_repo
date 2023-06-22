@@ -23,3 +23,12 @@ studenci = ["Ania", "Kasia", "Piotr", "Tomek"]
 
 for student in studenci:
     print("Cześć", student)
+
+#zadanie 1.5
+
+liczba = 3
+potega = 4
+
+wynik = liczba ** potega
+
+print(wynik)
