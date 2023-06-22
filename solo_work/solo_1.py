@@ -6,3 +6,4 @@ komunikat = "{} {}".format(hello, student)
 print(komunikat)
 
 
+
