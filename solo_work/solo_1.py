@@ -17,3 +17,9 @@ liczba_studentow = len(studenci)
 
 print("Liczba studentów wynosi: {}".format(liczba_studentow))
 
+#zadanie 1.4
+
+studenci = ["Ania", "Kasia", "Piotr", "Tomek"]
+
+for student in studenci:
+    print("Cześć", student)
