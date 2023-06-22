@@ -38,3 +38,10 @@ print(wynik)
 ciag_znakow = "edbw(hdakqas(skqskahb))adwndwb(wgwidn()dsqwhjdw)"
 liczba_nawiasow = ciag_znakow.count("(")
 print("Liczba nawiasów otwierających:", liczba_nawiasow)
+
+#zadanie 1.7
+
+studenci = ["Anna Szczesny", "Tomasz Nijaki", "Barbara Kowalska", "Jan Niezbedny"]
+
+studenci.sort(key=lambda x: x[0])
+print(studenci)
